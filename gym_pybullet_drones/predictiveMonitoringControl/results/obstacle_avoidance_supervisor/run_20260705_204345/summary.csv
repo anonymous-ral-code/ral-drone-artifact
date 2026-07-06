@@ -1,0 +1,3 @@
+case,steps,interventions,avoidance_steps,collision_steps_virtual,close_steps_less_8cm,min_clearance_m,min_predicted_clearance_m,max_risk_score,max_proximity_risk,min_executed_speed_mps,mean_executed_speed_mps,max_speed_reduction_mps
+baseline_direct,864,0,0,175,312,-0.11395580118339904,-0.11519607089706313,0.18519607089706314,1.0,0.34,0.3399999999999999,0.0
+runtime_supervisor,864,842,842,0,0,0.08195650328778245,-0.09482830058097275,0.09680050335254298,0.5902174835610877,0.27302566761612596,0.31472195300129624,0.06697433238387407

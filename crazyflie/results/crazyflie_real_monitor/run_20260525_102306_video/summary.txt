@@ -1,0 +1,12 @@
+Summary:
+Minimum clearance [m]: 0.02602325267042631
+Maximum risk score: 0.05397674732957369
+Monitor active samples: 12
+Total monitor samples: 20
+Onboard telemetry samples: 477
+Mean onboard height [m]: 0.08415741845702135
+Min onboard height [m]: -0.005802391096949577
+Max onboard height [m]: 0.11965827643871307
+Mean battery voltage [V]: 3.5924496771414067
+
+(crazyflie) C:\Users\hanib\crazyflie>
